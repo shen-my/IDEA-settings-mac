@@ -1,7 +1,10 @@
 <application>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
   </component>
 </application>
