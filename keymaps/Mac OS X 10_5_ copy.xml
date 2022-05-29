@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="GotoSymbol" />
+  <action id="NewScratchFile" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl period" />
@@ -32,6 +33,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
