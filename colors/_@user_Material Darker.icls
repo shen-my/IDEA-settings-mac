@@ -1,21 +1,11 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-05-28T11:48:45</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-01T14:13:11</property>
+    <property name="modified">2022-06-01T14:32:43</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -2845,7 +2835,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c7d5d6" />
+        <option name="FOREGROUND" value="616161" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
