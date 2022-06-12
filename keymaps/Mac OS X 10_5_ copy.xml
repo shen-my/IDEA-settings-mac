@@ -15,6 +15,7 @@
     <keyboard-shortcut first-keystroke="meta add" />
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoSymbol" />
   <action id="NewScratchFile" />
   <action id="NextTab">
@@ -25,7 +26,7 @@
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="PopupMenu-selectPrevious">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -33,6 +34,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
