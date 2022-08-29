@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins updates" displayType="NONE" shouldLog="false" />
   </component>
 </application>
