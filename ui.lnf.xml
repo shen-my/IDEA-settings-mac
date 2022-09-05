@@ -8,5 +8,6 @@
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>
