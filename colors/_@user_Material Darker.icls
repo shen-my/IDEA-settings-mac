@@ -3,7 +3,7 @@
     <property name="created">2022-05-28T11:48:45</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-09-06T21:15:40</property>
+    <property name="modified">2022-09-08T14:30:56</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -85,7 +85,7 @@
     <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="727272" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
-    <option name="LOOKUP_COLOR" value="363636" />
+    <option name="LOOKUP_COLOR" value="393939" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="ff9800" />
