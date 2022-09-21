@@ -3,7 +3,7 @@
     <property name="created">2022-05-28T11:48:45</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-09-21T14:28:33</property>
+    <property name="modified">2022-09-21T15:04:51</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <colors>
@@ -1130,7 +1130,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="866b27" />
+        <option name="BACKGROUND" value="6d6143" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
